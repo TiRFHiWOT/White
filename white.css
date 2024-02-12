@@ -191,7 +191,7 @@
 .middle-one {
   display: flex;
   justify-content: space-around;
-  margin-block: 50px;
+  margin-block: 100px;
 }
 .second h1 {
   font-size: 3rem;
