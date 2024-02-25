@@ -243,7 +243,7 @@
   padding-block: 10px;
 }
 .col-four p {
-  font-size: xx-small;
+  font-size: x-small;
   font-weight: bold;
   max-width: 350px;
   margin-block: 10px;
@@ -344,9 +344,9 @@
   margin-inline: auto;
 }
 .col-five p {
-  font-size: xx-small;
+  font-size: x-small;
   font-weight: bold;
-  padding-block: 10px;
+  padding: 10px;
   color: var(--color-one);
 }
 .col-five .btn {
